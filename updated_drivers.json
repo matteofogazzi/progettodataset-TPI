@@ -427,8 +427,11 @@
         "forename": "Juan",
         "surname": "Pablo Montoya",
         "dob": "1975-09-20",
-        "nationality": "Colombian",
-        "url": "http://en.wikipedia.org/wiki/Juan_Pablo_Montoya"
+        "url": "http://en.wikipedia.org/wiki/Juan_Pablo_Montoya",
+        "coordinates": {
+            "latitude": 4.570868,
+            "longitude": -74.297333
+        }
     },
     {
         "driverId": 32,
@@ -452,8 +455,11 @@
         "forename": "Tiago",
         "surname": "Monteiro",
         "dob": "1976-07-24",
-        "nationality": "Portuguese",
-        "url": "http://en.wikipedia.org/wiki/Tiago_Monteiro"
+        "url": "http://en.wikipedia.org/wiki/Tiago_Monteiro",
+        "coordinates": {
+            "latitude": 39.399872,
+            "longitude": -8.224454
+        }
     },
     {
         "driverId": 34,
@@ -533,8 +539,11 @@
         "forename": "Narain",
         "surname": "Karthikeyan",
         "dob": "1977-01-14",
-        "nationality": "Indian",
-        "url": "http://en.wikipedia.org/wiki/Narain_Karthikeyan"
+        "url": "http://en.wikipedia.org/wiki/Narain_Karthikeyan",
+        "coordinates": {
+            "latitude": 20.593684,
+            "longitude": 78.96288
+        }
     },
     {
         "driverId": 40,
@@ -642,8 +651,11 @@
         "forename": "Zsolt",
         "surname": "Baumgartner",
         "dob": "1981-01-01",
-        "nationality": "Hungarian",
-        "url": "http://en.wikipedia.org/wiki/Zsolt_Baumgartner"
+        "url": "http://en.wikipedia.org/wiki/Zsolt_Baumgartner",
+        "coordinates": {
+            "latitude": 47.162494,
+            "longitude": 19.503304
+        }
     },
     {
         "driverId": 48,
@@ -821,8 +833,11 @@
         "forename": "Gast\u00f3n",
         "surname": "Mazzacane",
         "dob": "1975-05-08",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Gast%C3%B3n_Mazzacane"
+        "url": "http://en.wikipedia.org/wiki/Gast%C3%B3n_Mazzacane",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 61,
@@ -832,8 +847,11 @@
         "forename": "Tom\u00e1\u0161",
         "surname": "Enge",
         "dob": "1976-09-11",
-        "nationality": "Czech",
-        "url": "http://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Enge"
+        "url": "http://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Enge",
+        "coordinates": {
+            "latitude": 49.817492,
+            "longitude": 15.472962
+        }
     },
     {
         "driverId": 62,
@@ -843,8 +861,11 @@
         "forename": "Alex",
         "surname": "Yoong",
         "dob": "1976-07-20",
-        "nationality": "Malaysian",
-        "url": "http://en.wikipedia.org/wiki/Alex_Yoong"
+        "url": "http://en.wikipedia.org/wiki/Alex_Yoong",
+        "coordinates": {
+            "latitude": 4.210484,
+            "longitude": 101.975766
+        }
     },
     {
         "driverId": 63,
@@ -1008,8 +1029,11 @@
         "forename": "Esteban",
         "surname": "Tuero",
         "dob": "1978-04-22",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Esteban_Tuero"
+        "url": "http://en.wikipedia.org/wiki/Esteban_Tuero",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 75,
@@ -1117,8 +1141,11 @@
         "forename": "Norberto",
         "surname": "Fontana",
         "dob": "1975-01-20",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Norberto_Fontana"
+        "url": "http://en.wikipedia.org/wiki/Norberto_Fontana",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 83,
@@ -1128,8 +1155,11 @@
         "forename": "Pedro",
         "surname": "Lamy",
         "dob": "1972-03-20",
-        "nationality": "Portuguese",
-        "url": "http://en.wikipedia.org/wiki/Pedro_Lamy"
+        "url": "http://en.wikipedia.org/wiki/Pedro_Lamy",
+        "coordinates": {
+            "latitude": 39.399872,
+            "longitude": -8.224454
+        }
     },
     {
         "driverId": 84,
@@ -1251,8 +1281,11 @@
         "forename": "Bertrand",
         "surname": "Gachot",
         "dob": "1962-12-23",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Bertrand_Gachot"
+        "url": "http://en.wikipedia.org/wiki/Bertrand_Gachot",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 93,
@@ -1444,8 +1477,11 @@
         "forename": "Olivier",
         "surname": "Beretta",
         "dob": "1969-11-23",
-        "nationality": "Monegasque",
-        "url": "http://en.wikipedia.org/wiki/Olivier_Beretta"
+        "url": "http://en.wikipedia.org/wiki/Olivier_Beretta",
+        "coordinates": {
+            "latitude": 43.738418,
+            "longitude": 7.424616
+        }
     },
     {
         "driverId": 107,
@@ -1539,8 +1575,11 @@
         "forename": "Philippe",
         "surname": "Adams",
         "dob": "1969-11-19",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Philippe_Adams"
+        "url": "http://en.wikipedia.org/wiki/Philippe_Adams",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 114,
@@ -1676,8 +1715,11 @@
         "forename": "Thierry",
         "surname": "Boutsen",
         "dob": "1957-07-13",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Thierry_Boutsen"
+        "url": "http://en.wikipedia.org/wiki/Thierry_Boutsen",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 124,
@@ -1743,8 +1785,11 @@
         "forename": "Eric",
         "surname": "van de Poele",
         "dob": "1961-09-30",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Eric_van_de_Poele"
+        "url": "http://en.wikipedia.org/wiki/Eric_van_de_Poele",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 129,
@@ -1908,8 +1953,11 @@
         "forename": "Stefan",
         "surname": "Johansson",
         "dob": "1956-09-08",
-        "nationality": "Swedish",
-        "url": "http://en.wikipedia.org/wiki/Stefan_Johansson"
+        "url": "http://en.wikipedia.org/wiki/Stefan_Johansson",
+        "coordinates": {
+            "latitude": 60.128161,
+            "longitude": 18.643501
+        }
     },
     {
         "driverId": 141,
@@ -1933,8 +1981,11 @@
         "forename": "Pedro",
         "surname": "Chaves",
         "dob": "1965-02-27",
-        "nationality": "Portuguese",
-        "url": "http://en.wikipedia.org/wiki/Pedro_Chaves"
+        "url": "http://en.wikipedia.org/wiki/Pedro_Chaves",
+        "coordinates": {
+            "latitude": 39.399872,
+            "longitude": -8.224454
+        }
     },
     {
         "driverId": 143,
@@ -2252,8 +2303,11 @@
         "forename": "Oscar",
         "surname": "Larrauri",
         "dob": "1954-08-19",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Oscar_Larrauri"
+        "url": "http://en.wikipedia.org/wiki/Oscar_Larrauri",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 166,
@@ -2571,7 +2625,6 @@
         "forename": "Johnny",
         "surname": "Cecotto",
         "dob": "1956-01-25",
-        "nationality": "Venezuelan",
         "url": "http://en.wikipedia.org/wiki/Johnny_Cecotto"
     },
     {
@@ -2610,7 +2663,6 @@
         "forename": "Mike",
         "surname": "Thackwell",
         "dob": "1961-03-30",
-        "nationality": "New Zealander",
         "url": "http://en.wikipedia.org/wiki/Mike_Thackwell"
     },
     {
@@ -2649,7 +2701,6 @@
         "forename": "Eliseo",
         "surname": "Salazar",
         "dob": "1954-11-14",
-        "nationality": "Chilean",
         "url": "http://en.wikipedia.org/wiki/Eliseo_Salazar"
     },
     {
@@ -2660,8 +2711,11 @@
         "forename": "Roberto",
         "surname": "Guerrero",
         "dob": "1958-11-16",
-        "nationality": "Colombian",
-        "url": "http://en.wikipedia.org/wiki/Roberto_Guerrero"
+        "url": "http://en.wikipedia.org/wiki/Roberto_Guerrero",
+        "coordinates": {
+            "latitude": 4.570868,
+            "longitude": -74.297333
+        }
     },
     {
         "driverId": 196,
@@ -2713,8 +2767,11 @@
         "forename": "Carlos",
         "surname": "Reutemann",
         "dob": "1942-04-12",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Carlos_Reutemann"
+        "url": "http://en.wikipedia.org/wiki/Carlos_Reutemann",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 200,
@@ -2738,8 +2795,11 @@
         "forename": "Slim",
         "surname": "Borgudd",
         "dob": "1946-11-25",
-        "nationality": "Swedish",
-        "url": "http://en.wikipedia.org/wiki/Slim_Borgudd"
+        "url": "http://en.wikipedia.org/wiki/Slim_Borgudd",
+        "coordinates": {
+            "latitude": 60.128161,
+            "longitude": 18.643501
+        }
     },
     {
         "driverId": 202,
@@ -2889,7 +2949,6 @@
         "forename": "Hector",
         "surname": "Rebaque",
         "dob": "1956-02-05",
-        "nationality": "Mexican",
         "url": "http://en.wikipedia.org/wiki/Hector_Rebaque"
     },
     {
@@ -2928,8 +2987,11 @@
         "forename": "Miguel \u00c1ngel",
         "surname": "Guerra",
         "dob": "1953-08-31",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Miguel_Angel_Guerra"
+        "url": "http://en.wikipedia.org/wiki/Miguel_Angel_Guerra",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 216,
@@ -2953,8 +3015,11 @@
         "forename": "Ricardo",
         "surname": "Zunino",
         "dob": "1949-04-13",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Ricardo_Zunino"
+        "url": "http://en.wikipedia.org/wiki/Ricardo_Zunino",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 218,
@@ -2964,8 +3029,11 @@
         "forename": "Ricardo",
         "surname": "Londo\u00f1o",
         "dob": "1949-08-08",
-        "nationality": "Colombian",
-        "url": "http://en.wikipedia.org/wiki/Ricardo_Londo%C3%B1o"
+        "url": "http://en.wikipedia.org/wiki/Ricardo_Londo%C3%B1o",
+        "coordinates": {
+            "latitude": 4.570868,
+            "longitude": -74.297333
+        }
     },
     {
         "driverId": 219,
@@ -3017,7 +3085,6 @@
         "forename": "Jody",
         "surname": "Scheckter",
         "dob": "1950-01-29",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Jody_Scheckter"
     },
     {
@@ -3098,7 +3165,6 @@
         "forename": "Desir\u00e9",
         "surname": "Wilson",
         "dob": "1953-11-26",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Desir%C3%A9_Wilson"
     },
     {
@@ -3193,8 +3259,11 @@
         "forename": "Jacky",
         "surname": "Ickx",
         "dob": "1945-01-01",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Jacky_Ickx"
+        "url": "http://en.wikipedia.org/wiki/Jacky_Ickx",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 236,
@@ -3232,8 +3301,11 @@
         "forename": "Ronnie",
         "surname": "Peterson",
         "dob": "1944-02-14",
-        "nationality": "Swedish",
-        "url": "http://en.wikipedia.org/wiki/Ronnie_Peterson"
+        "url": "http://en.wikipedia.org/wiki/Ronnie_Peterson",
+        "coordinates": {
+            "latitude": 60.128161,
+            "longitude": 18.643501
+        }
     },
     {
         "driverId": 239,
@@ -3411,7 +3483,6 @@
         "forename": "Ian",
         "surname": "Scheckter",
         "dob": "1947-08-22",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Ian_Scheckter"
     },
     {
@@ -3464,8 +3535,11 @@
         "forename": "Gunnar",
         "surname": "Nilsson",
         "dob": "1948-11-20",
-        "nationality": "Swedish",
-        "url": "http://en.wikipedia.org/wiki/Gunnar_Nilsson"
+        "url": "http://en.wikipedia.org/wiki/Gunnar_Nilsson",
+        "coordinates": {
+            "latitude": 60.128161,
+            "longitude": 18.643501
+        }
     },
     {
         "driverId": 256,
@@ -3503,8 +3577,11 @@
         "forename": "Patrick",
         "surname": "N\u00e8ve",
         "dob": "1949-10-13",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Patrick_Neve"
+        "url": "http://en.wikipedia.org/wiki/Patrick_Neve",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 259,
@@ -3528,8 +3605,11 @@
         "forename": "Conny",
         "surname": "Andersson",
         "dob": "1939-12-28",
-        "nationality": "Swedish",
-        "url": "http://en.wikipedia.org/wiki/Conny_Andersson_(racing_driver)"
+        "url": "http://en.wikipedia.org/wiki/Conny_Andersson_(racing_driver)",
+        "coordinates": {
+            "latitude": 60.128161,
+            "longitude": 18.643501
+        }
     },
     {
         "driverId": 261,
@@ -3539,8 +3619,11 @@
         "forename": "Bernard",
         "surname": "de Dryver",
         "dob": "1952-09-19",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Bernard_de_Dryver"
+        "url": "http://en.wikipedia.org/wiki/Bernard_de_Dryver",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 262,
@@ -3648,8 +3731,11 @@
         "forename": "Teddy",
         "surname": "Pilette",
         "dob": "1942-07-26",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Teddy_Pilette"
+        "url": "http://en.wikipedia.org/wiki/Teddy_Pilette",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 270,
@@ -3771,7 +3857,6 @@
         "forename": "Chris",
         "surname": "Amon",
         "dob": "1943-07-20",
-        "nationality": "New Zealander",
         "url": "http://en.wikipedia.org/wiki/Chris_Amon"
     },
     {
@@ -3950,7 +4035,6 @@
         "forename": "Guy",
         "surname": "Tunmer",
         "dob": "1948-12-01",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Guy_Tunmer"
     },
     {
@@ -3961,7 +4045,6 @@
         "forename": "Eddie",
         "surname": "Keizan",
         "dob": "1944-09-12",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Eddie_Keizan"
     },
     {
@@ -3972,7 +4055,6 @@
         "forename": "Dave",
         "surname": "Charlton",
         "dob": "1936-10-27",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Dave_Charlton"
     },
     {
@@ -4025,8 +4107,11 @@
         "forename": "Torsten",
         "surname": "Palm",
         "dob": "1947-07-23",
-        "nationality": "Swedish",
-        "url": "http://en.wikipedia.org/wiki/Torsten_Palm"
+        "url": "http://en.wikipedia.org/wiki/Torsten_Palm",
+        "coordinates": {
+            "latitude": 60.128161,
+            "longitude": 18.643501
+        }
     },
     {
         "driverId": 298,
@@ -4064,7 +4149,6 @@
         "forename": "John",
         "surname": "Nicholson",
         "dob": "1941-10-06",
-        "nationality": "New Zealander",
         "url": "http://en.wikipedia.org/wiki/John_Nicholson_(racing_driver)"
     },
     {
@@ -4117,7 +4201,6 @@
         "forename": "Denny",
         "surname": "Hulme",
         "dob": "1936-06-18",
-        "nationality": "New Zealander",
         "url": "http://en.wikipedia.org/wiki/Denny_Hulme"
     },
     {
@@ -4156,7 +4239,6 @@
         "forename": "Howden",
         "surname": "Ganley",
         "dob": "1941-12-24",
-        "nationality": "New Zealander",
         "url": "http://en.wikipedia.org/wiki/Howden_Ganley"
     },
     {
@@ -4195,7 +4277,6 @@
         "forename": "Paddy",
         "surname": "Driver",
         "dob": "1934-05-13",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Paddy_Driver"
     },
     {
@@ -4234,7 +4315,6 @@
         "forename": "Rikky",
         "surname": "von Opel",
         "dob": "1947-10-14",
-        "nationality": "Liechtensteiner",
         "url": "http://en.wikipedia.org/wiki/Rikky_von_Opel"
     },
     {
@@ -4287,8 +4367,11 @@
         "forename": "Reine",
         "surname": "Wisell",
         "dob": "1941-09-30",
-        "nationality": "Swedish",
-        "url": "http://en.wikipedia.org/wiki/Reine_Wisell"
+        "url": "http://en.wikipedia.org/wiki/Reine_Wisell",
+        "coordinates": {
+            "latitude": 60.128161,
+            "longitude": 18.643501
+        }
     },
     {
         "driverId": 318,
@@ -4298,8 +4381,11 @@
         "forename": "Bertil",
         "surname": "Roos",
         "dob": "1943-10-12",
-        "nationality": "Swedish",
-        "url": "http://en.wikipedia.org/wiki/Bertil_Roos"
+        "url": "http://en.wikipedia.org/wiki/Bertil_Roos",
+        "coordinates": {
+            "latitude": 60.128161,
+            "longitude": 18.643501
+        }
     },
     {
         "driverId": 319,
@@ -4519,7 +4605,6 @@
         "forename": "Jackie",
         "surname": "Pretorius",
         "dob": "1934-11-22",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Jackie_Pretorius"
     },
     {
@@ -4544,7 +4629,6 @@
         "forename": "Graham",
         "surname": "McRae",
         "dob": "1940-03-05",
-        "nationality": "New Zealander",
         "url": "http://en.wikipedia.org/wiki/Graham_McRae"
     },
     {
@@ -4597,7 +4681,6 @@
         "forename": "John",
         "surname": "Love",
         "dob": "1924-12-07",
-        "nationality": "Rhodesian",
         "url": "http://en.wikipedia.org/wiki/John_Love_(racing_driver)"
     },
     {
@@ -4664,7 +4747,6 @@
         "forename": "Pedro",
         "surname": "Rodr\u00edguez",
         "dob": "1940-01-18",
-        "nationality": "Mexican",
         "url": "http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)"
     },
     {
@@ -4689,8 +4771,11 @@
         "forename": "Jo",
         "surname": "Bonnier",
         "dob": "1930-01-31",
-        "nationality": "Swedish",
-        "url": "http://en.wikipedia.org/wiki/Joakim_Bonnier"
+        "url": "http://en.wikipedia.org/wiki/Joakim_Bonnier",
+        "coordinates": {
+            "latitude": 60.128161,
+            "longitude": 18.643501
+        }
     },
     {
         "driverId": 348,
@@ -4868,7 +4953,6 @@
         "forename": "Bruce",
         "surname": "McLaren",
         "dob": "1937-08-30",
-        "nationality": "New Zealander",
         "url": "http://en.wikipedia.org/wiki/Bruce_McLaren"
     },
     {
@@ -4893,7 +4977,6 @@
         "forename": "Peter",
         "surname": "de Klerk",
         "dob": "1935-03-16",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Peter_de_Klerk"
     },
     {
@@ -4974,7 +5057,6 @@
         "forename": "Sam",
         "surname": "Tingle",
         "dob": "1921-08-24",
-        "nationality": "Rhodesian",
         "url": "http://en.wikipedia.org/wiki/Sam_Tingle"
     },
     {
@@ -4985,7 +5067,6 @@
         "forename": "Basil",
         "surname": "van Rooyen",
         "dob": "1939-04-19",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Basil_van_Rooyen"
     },
     {
@@ -5080,8 +5161,11 @@
         "forename": "Lucien",
         "surname": "Bianchi",
         "dob": "1934-11-10",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Lucien_Bianchi"
+        "url": "http://en.wikipedia.org/wiki/Lucien_Bianchi",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 377,
@@ -5161,7 +5245,6 @@
         "forename": "Mois\u00e9s",
         "surname": "Solana",
         "dob": "1935-12-26",
-        "nationality": "Mexican",
         "url": "http://en.wikipedia.org/wiki/Mois%C3%A9s_Solana"
     },
     {
@@ -5186,7 +5269,6 @@
         "forename": "Luki",
         "surname": "Botha",
         "dob": "1930-01-16",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Luki_Botha"
     },
     {
@@ -5519,7 +5601,6 @@
         "forename": "Tony",
         "surname": "Maggs",
         "dob": "1937-02-09",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Tony_Maggs"
     },
     {
@@ -5530,7 +5611,6 @@
         "forename": "Trevor",
         "surname": "Blokdyk",
         "dob": "1935-11-30",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Trevor_Blokdyk"
     },
     {
@@ -5541,7 +5621,6 @@
         "forename": "Neville",
         "surname": "Lederle",
         "dob": "1938-09-25",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Neville_Lederle"
     },
     {
@@ -5552,7 +5631,6 @@
         "forename": "Doug",
         "surname": "Serrurier",
         "dob": "1920-12-09",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Doug_Serrurier"
     },
     {
@@ -5563,7 +5641,6 @@
         "forename": "Brausch",
         "surname": "Niemann",
         "dob": "1939-01-07",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Brausch_Niemann"
     },
     {
@@ -5574,7 +5651,6 @@
         "forename": "Ernie",
         "surname": "Pieterse",
         "dob": "1938-07-04",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Ernie_Pieterse"
     },
     {
@@ -5585,7 +5661,6 @@
         "forename": "Clive",
         "surname": "Puzey",
         "dob": "1941-07-11",
-        "nationality": "Rhodesian",
         "url": "http://en.wikipedia.org/wiki/Clive_Puzey"
     },
     {
@@ -5596,7 +5671,6 @@
         "forename": "Ray",
         "surname": "Reed",
         "dob": "1932-04-30",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Ray_Reed"
     },
     {
@@ -5607,7 +5681,6 @@
         "forename": "David",
         "surname": "Clapham",
         "dob": "1931-05-18",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/David_Clapham"
     },
     {
@@ -5618,7 +5691,6 @@
         "forename": "Alex",
         "surname": "Blignaut",
         "dob": "1932-11-30",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Alex_Blignaut"
     },
     {
@@ -5783,8 +5855,11 @@
         "forename": "Andr\u00e9",
         "surname": "Pilette",
         "dob": "1918-10-06",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette"
+        "url": "http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 430,
@@ -5822,8 +5897,11 @@
         "forename": "M\u00e1rio de Ara\u00fajo",
         "surname": "Cabral",
         "dob": "1934-01-15",
-        "nationality": "Portuguese",
-        "url": "http://en.wikipedia.org/wiki/Mario_de_Araujo_Cabral"
+        "url": "http://en.wikipedia.org/wiki/Mario_de_Araujo_Cabral",
+        "coordinates": {
+            "latitude": 39.399872,
+            "longitude": -8.224454
+        }
     },
     {
         "driverId": 433,
@@ -5861,8 +5939,11 @@
         "forename": "Willy",
         "surname": "Mairesse",
         "dob": "1928-10-01",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Willy_Mairesse"
+        "url": "http://en.wikipedia.org/wiki/Willy_Mairesse",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 436,
@@ -5914,8 +5995,11 @@
         "forename": "Nasif",
         "surname": "Est\u00e9fano",
         "dob": "1932-11-18",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Nasif_Est%C3%A9fano"
+        "url": "http://en.wikipedia.org/wiki/Nasif_Est%C3%A9fano",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 440,
@@ -6135,7 +6219,6 @@
         "forename": "Ricardo",
         "surname": "Rodr\u00edguez",
         "dob": "1942-02-14",
-        "nationality": "Mexican",
         "url": "http://en.wikipedia.org/wiki/Ricardo_Rodr%C3%ADguez_(Formula_One)"
     },
     {
@@ -6272,7 +6355,6 @@
         "forename": "Tony",
         "surname": "Shelly",
         "dob": "1937-02-02",
-        "nationality": "New Zealander",
         "url": "http://en.wikipedia.org/wiki/Tony_Shelly"
     },
     {
@@ -6367,7 +6449,6 @@
         "forename": "Bruce",
         "surname": "Johnstone",
         "dob": "1937-01-30",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Bruce_Johnstone_(racing_driver)"
     },
     {
@@ -6378,7 +6459,6 @@
         "forename": "Mike",
         "surname": "Harris",
         "dob": "1939-05-25",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Mike_Harris_(race_car_driver)"
     },
     {
@@ -6389,7 +6469,6 @@
         "forename": "Gary",
         "surname": "Hocking",
         "dob": "1937-09-30",
-        "nationality": "Rhodesian",
         "url": "http://en.wikipedia.org/wiki/Gary_Hocking"
     },
     {
@@ -6400,7 +6479,6 @@
         "forename": "Syd",
         "surname": "van der Vyver",
         "dob": "1920-06-01",
-        "nationality": "South African",
         "url": "http://en.wikipedia.org/wiki/Syd_van_der_Vyver"
     },
     {
@@ -6509,8 +6587,11 @@
         "forename": "Olivier",
         "surname": "Gendebien",
         "dob": "1924-01-12",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Olivier_Gendebien"
+        "url": "http://en.wikipedia.org/wiki/Olivier_Gendebien",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 483,
@@ -6548,8 +6629,11 @@
         "forename": "Juan Manuel",
         "surname": "Bordeu",
         "dob": "1934-01-28",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Juan_Manuel_Bordeu"
+        "url": "http://en.wikipedia.org/wiki/Juan_Manuel_Bordeu",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 486,
@@ -6629,7 +6713,6 @@
         "forename": "Alfonso",
         "surname": "Thiele",
         "dob": "1920-04-05",
-        "nationality": "American-Italian",
         "url": "http://en.wikipedia.org/wiki/Alfonso_Thiele"
     },
     {
@@ -6696,8 +6779,11 @@
         "forename": "Carlos",
         "surname": "Menditeguy",
         "dob": "1914-08-10",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Carlos_Menditeguy"
+        "url": "http://en.wikipedia.org/wiki/Carlos_Menditeguy",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 497,
@@ -6707,8 +6793,11 @@
         "forename": "Alberto Rodriguez",
         "surname": "Larreta",
         "dob": "1934-01-14",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Alberto_Rodriguez_Larreta"
+        "url": "http://en.wikipedia.org/wiki/Alberto_Rodriguez_Larreta",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 498,
@@ -6718,8 +6807,11 @@
         "forename": "Jos\u00e9 Froil\u00e1n",
         "surname": "Gonz\u00e1lez",
         "dob": "1922-10-05",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez"
+        "url": "http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 499,
@@ -6729,8 +6821,11 @@
         "forename": "Roberto",
         "surname": "Bonomi",
         "dob": "1919-09-30",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Roberto_Bonomi"
+        "url": "http://en.wikipedia.org/wiki/Roberto_Bonomi",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 500,
@@ -6782,7 +6877,6 @@
         "forename": "Ettore",
         "surname": "Chimeri",
         "dob": "1921-06-04",
-        "nationality": "Venezuelan",
         "url": "http://en.wikipedia.org/wiki/Ettore_Chimeri"
     },
     {
@@ -7437,8 +7531,11 @@
         "forename": "Alain",
         "surname": "de Changy",
         "dob": "1922-02-05",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Alain_de_Changy"
+        "url": "http://en.wikipedia.org/wiki/Alain_de_Changy",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 551,
@@ -7476,8 +7573,11 @@
         "forename": "Andr\u00e9",
         "surname": "Testut",
         "dob": "1926-04-13",
-        "nationality": "Monegasque",
-        "url": "http://en.wikipedia.org/wiki/Andr%C3%A9_Testut"
+        "url": "http://en.wikipedia.org/wiki/Andr%C3%A9_Testut",
+        "coordinates": {
+            "latitude": 43.738418,
+            "longitude": 7.424616
+        }
     },
     {
         "driverId": 554,
@@ -7683,7 +7783,6 @@
         "forename": "Azdrubal",
         "surname": "Fontes",
         "dob": "1922-12-26",
-        "nationality": "Uruguayan",
         "url": "http://en.wikipedia.org/wiki/Azdrubal_Fontes"
     },
     {
@@ -7750,7 +7849,6 @@
         "forename": "Alessandro",
         "surname": "de Tomaso",
         "dob": "1928-07-10",
-        "nationality": "Argentine-Italian",
         "url": "http://en.wikipedia.org/wiki/Alessandro_de_Tomaso"
     },
     {
@@ -7831,8 +7929,11 @@
         "forename": "Juan",
         "surname": "Fangio",
         "dob": "1911-06-24",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Juan_Manuel_Fangio"
+        "url": "http://en.wikipedia.org/wiki/Juan_Manuel_Fangio",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 580,
@@ -7968,8 +8069,11 @@
         "forename": "Louis",
         "surname": "Chiron",
         "dob": "1899-08-03",
-        "nationality": "Monegasque",
-        "url": "http://en.wikipedia.org/wiki/Louis_Chiron"
+        "url": "http://en.wikipedia.org/wiki/Louis_Chiron",
+        "coordinates": {
+            "latitude": 43.738418,
+            "longitude": 7.424616
+        }
     },
     {
         "driverId": 590,
@@ -8119,8 +8223,11 @@
         "forename": "Christian",
         "surname": "Goethals",
         "dob": "1928-08-04",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Christian_Goethals"
+        "url": "http://en.wikipedia.org/wiki/Christian_Goethals",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 601,
@@ -8438,7 +8545,6 @@
         "forename": "Alberto",
         "surname": "Uria",
         "dob": "1924-07-11",
-        "nationality": "Uruguayan",
         "url": "http://en.wikipedia.org/wiki/Alberto_Uria"
     },
     {
@@ -8561,8 +8667,11 @@
         "forename": "Paul",
         "surname": "Fr\u00e8re",
         "dob": "1917-01-30",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re"
+        "url": "http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 633,
@@ -8656,8 +8765,11 @@
         "forename": "Andr\u00e9",
         "surname": "Milhoux",
         "dob": "1928-12-09",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Andr%C3%A9_Milhoux"
+        "url": "http://en.wikipedia.org/wiki/Andr%C3%A9_Milhoux",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 640,
@@ -8709,8 +8821,11 @@
         "forename": "Roberto",
         "surname": "Mieres",
         "dob": "1924-12-03",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Roberto_Mieres"
+        "url": "http://en.wikipedia.org/wiki/Roberto_Mieres",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 644,
@@ -8734,8 +8849,11 @@
         "forename": "Clemar",
         "surname": "Bucci",
         "dob": "1920-09-04",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Clemar_Bucci"
+        "url": "http://en.wikipedia.org/wiki/Clemar_Bucci",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 646,
@@ -8745,8 +8863,11 @@
         "forename": "Jes\u00fas",
         "surname": "Iglesias",
         "dob": "1922-02-22",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Jes%C3%BAs_Iglesias"
+        "url": "http://en.wikipedia.org/wiki/Jes%C3%BAs_Iglesias",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 647,
@@ -8784,8 +8905,11 @@
         "forename": "Pablo",
         "surname": "Birger",
         "dob": "1924-01-07",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Pablo_Birger"
+        "url": "http://en.wikipedia.org/wiki/Pablo_Birger",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 650,
@@ -8935,8 +9059,11 @@
         "forename": "Johnny",
         "surname": "Claes",
         "dob": "1916-08-11",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Johnny_Claes"
+        "url": "http://en.wikipedia.org/wiki/Johnny_Claes",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 661,
@@ -9058,7 +9185,6 @@
         "forename": "Prince",
         "surname": "Bira",
         "dob": "1914-07-15",
-        "nationality": "Thai",
         "url": "http://en.wikipedia.org/wiki/Prince_Bira"
     },
     {
@@ -9069,8 +9195,11 @@
         "forename": "Onofre",
         "surname": "Marim\u00f3n",
         "dob": "1923-12-19",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n"
+        "url": "http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 671,
@@ -9094,8 +9223,11 @@
         "forename": "Jorge",
         "surname": "Daponte",
         "dob": "1923-06-05",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Jorge_Daponte"
+        "url": "http://en.wikipedia.org/wiki/Jorge_Daponte",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 673,
@@ -9217,8 +9349,11 @@
         "forename": "Georges",
         "surname": "Berger",
         "dob": "1918-09-14",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Georges_Berger"
+        "url": "http://en.wikipedia.org/wiki/Georges_Berger",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 682,
@@ -9410,8 +9545,11 @@
         "forename": "Oscar",
         "surname": "G\u00e1lvez",
         "dob": "1913-08-17",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/%C3%93scar_Alfredo_G%C3%A1lvez"
+        "url": "http://en.wikipedia.org/wiki/%C3%93scar_Alfredo_G%C3%A1lvez",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 696,
@@ -9449,8 +9587,11 @@
         "forename": "Adolfo",
         "surname": "Cruz",
         "dob": "1923-06-28",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Adolfo_Schewelm_Cruz"
+        "url": "http://en.wikipedia.org/wiki/Adolfo_Schewelm_Cruz",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 699,
@@ -9516,8 +9657,11 @@
         "forename": "Arthur",
         "surname": "Legat",
         "dob": "1898-11-01",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Arthur_Legat"
+        "url": "http://en.wikipedia.org/wiki/Arthur_Legat",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 704,
@@ -9597,7 +9741,6 @@
         "forename": "Ernst",
         "surname": "Klodwig",
         "dob": "1903-05-23",
-        "nationality": "East German",
         "url": "http://en.wikipedia.org/wiki/Ernst_Klodwig"
     },
     {
@@ -9608,7 +9751,6 @@
         "forename": "Rudolf",
         "surname": "Krause",
         "dob": "1907-03-30",
-        "nationality": "East German",
         "url": "http://en.wikipedia.org/wiki/Rudolf_Krause"
     },
     {
@@ -9647,7 +9789,6 @@
         "forename": "Theo",
         "surname": "Fitzau",
         "dob": "1923-02-10",
-        "nationality": "East German",
         "url": "http://en.wikipedia.org/wiki/Theo_Fitzau"
     },
     {
@@ -9952,8 +10093,11 @@
         "forename": "Charles",
         "surname": "de Tornaco",
         "dob": "1927-06-07",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Charles_de_Tornaco"
+        "url": "http://en.wikipedia.org/wiki/Charles_de_Tornaco",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 736,
@@ -9963,8 +10107,11 @@
         "forename": "Roger",
         "surname": "Laurent",
         "dob": "1913-02-21",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Roger_Laurent"
+        "url": "http://en.wikipedia.org/wiki/Roger_Laurent",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 737,
@@ -10128,7 +10275,6 @@
         "forename": "Eitel",
         "surname": "Cantoni",
         "dob": "1906-10-04",
-        "nationality": "Uruguayan",
         "url": "http://en.wikipedia.org/wiki/Eitel_Cantoni"
     },
     {
@@ -10307,8 +10453,11 @@
         "forename": "Alberto",
         "surname": "Crespo",
         "dob": "1920-01-16",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Alberto_Crespo"
+        "url": "http://en.wikipedia.org/wiki/Alberto_Crespo",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 762,
@@ -10738,8 +10887,11 @@
         "forename": "Alfredo",
         "surname": "Pi\u00e1n",
         "dob": "1912-10-21",
-        "nationality": "Argentine",
-        "url": "http://en.wikipedia.org/wiki/Alfredo_Pi%C3%A0n"
+        "url": "http://en.wikipedia.org/wiki/Alfredo_Pi%C3%A0n",
+        "coordinates": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        }
     },
     {
         "driverId": 793,
@@ -10931,7 +11083,6 @@
         "forename": "\u00d3scar",
         "surname": "Gonz\u00e1lez",
         "dob": "1923-11-10",
-        "nationality": "Uruguayan",
         "url": "http://en.wikipedia.org/wiki/%C3%93scar_Gonz%C3%A1lez_(racing_driver)"
     },
     {
@@ -10956,7 +11107,6 @@
         "forename": "Vitaly",
         "surname": "Petrov",
         "dob": "1984-09-08",
-        "nationality": "Russian",
         "url": "http://en.wikipedia.org/wiki/Vitaly_Petrov"
     },
     {
@@ -10995,8 +11145,11 @@
         "forename": "Karun",
         "surname": "Chandhok",
         "dob": "1984-01-19",
-        "nationality": "Indian",
-        "url": "http://en.wikipedia.org/wiki/Karun_Chandhok"
+        "url": "http://en.wikipedia.org/wiki/Karun_Chandhok",
+        "coordinates": {
+            "latitude": 20.593684,
+            "longitude": 78.96288
+        }
     },
     {
         "driverId": 813,
@@ -11006,7 +11159,6 @@
         "forename": "Pastor",
         "surname": "Maldonado",
         "dob": "1985-03-09",
-        "nationality": "Venezuelan",
         "url": "http://en.wikipedia.org/wiki/Pastor_Maldonado"
     },
     {
@@ -11031,7 +11183,6 @@
         "forename": "Sergio",
         "surname": "P\u00e9rez",
         "dob": "1990-01-26",
-        "nationality": "Mexican",
         "url": "http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez"
     },
     {
@@ -11042,8 +11193,11 @@
         "forename": "J\u00e9r\u00f4me",
         "surname": "d'Ambrosio",
         "dob": "1985-12-27",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio"
+        "url": "http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 817,
@@ -11109,7 +11263,6 @@
         "forename": "Esteban",
         "surname": "Guti\u00e9rrez",
         "dob": "1991-08-05",
-        "nationality": "Mexican",
         "url": "http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez"
     },
     {
@@ -11176,7 +11329,6 @@
         "forename": "Daniil",
         "surname": "Kvyat",
         "dob": "1994-04-26",
-        "nationality": "Russian",
         "url": "http://en.wikipedia.org/wiki/Daniil_Kvyat"
     },
     {
@@ -11201,8 +11353,11 @@
         "forename": "Marcus",
         "surname": "Ericsson",
         "dob": "1990-09-02",
-        "nationality": "Swedish",
-        "url": "http://en.wikipedia.org/wiki/Marcus_Ericsson"
+        "url": "http://en.wikipedia.org/wiki/Marcus_Ericsson",
+        "coordinates": {
+            "latitude": 60.128161,
+            "longitude": 18.643501
+        }
     },
     {
         "driverId": 829,
@@ -11324,7 +11479,6 @@
         "forename": "Rio",
         "surname": "Haryanto",
         "dob": "1993-01-22",
-        "nationality": "Indonesian",
         "url": "http://en.wikipedia.org/wiki/Rio_Haryanto"
     },
     {
@@ -11335,8 +11489,11 @@
         "forename": "Stoffel",
         "surname": "Vandoorne",
         "dob": "1992-03-26",
-        "nationality": "Belgian",
-        "url": "http://en.wikipedia.org/wiki/Stoffel_Vandoorne"
+        "url": "http://en.wikipedia.org/wiki/Stoffel_Vandoorne",
+        "coordinates": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        }
     },
     {
         "driverId": 839,
@@ -11388,7 +11545,6 @@
         "forename": "Brendon",
         "surname": "Hartley",
         "dob": "1989-11-10",
-        "nationality": "New Zealander",
         "url": "http://en.wikipedia.org/wiki/Brendon_Hartley"
     },
     {
@@ -11399,8 +11555,11 @@
         "forename": "Charles",
         "surname": "Leclerc",
         "dob": "1997-10-16",
-        "nationality": "Monegasque",
-        "url": "http://en.wikipedia.org/wiki/Charles_Leclerc"
+        "url": "http://en.wikipedia.org/wiki/Charles_Leclerc",
+        "coordinates": {
+            "latitude": 43.738418,
+            "longitude": 7.424616
+        }
     },
     {
         "driverId": 845,
@@ -11410,7 +11569,6 @@
         "forename": "Sergey",
         "surname": "Sirotkin",
         "dob": "1995-08-27",
-        "nationality": "Russian",
         "url": "http://en.wikipedia.org/wiki/Sergey_Sirotkin_(racing_driver)"
     },
     {
@@ -11449,7 +11607,6 @@
         "forename": "Alexander",
         "surname": "Albon",
         "dob": "1996-03-23",
-        "nationality": "Thai",
         "url": "http://en.wikipedia.org/wiki/Alexander_Albon"
     },
     {
@@ -11516,7 +11673,6 @@
         "forename": "Nikita",
         "surname": "Mazepin",
         "dob": "1999-03-02",
-        "nationality": "Russian",
         "url": "http://en.wikipedia.org/wiki/Nikita_Mazepin"
     },
     {
@@ -11541,7 +11697,6 @@
         "forename": "Guanyu",
         "surname": "Zhou",
         "dob": "1999-05-30",
-        "nationality": "Chinese",
         "url": "http://en.wikipedia.org/wiki/Zhou_Guanyu"
     },
     {
@@ -11594,7 +11749,6 @@
         "forename": "Liam",
         "surname": "Lawson",
         "dob": "2002-02-11",
-        "nationality": "New Zealander",
         "url": "http://en.wikipedia.org/wiki/Liam_Lawson"
     },
     {
